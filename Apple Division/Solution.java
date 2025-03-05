@@ -23,6 +23,6 @@ public class Solution {
             return ; 
         }
         backtrack(  p , in+1 , curr , sum ) ; 
-        backtrack(p, in+1, curr + p[in], sum);
+        backtrack(  p,  in+1 , curr + p[in], sum);
     } 
 }
