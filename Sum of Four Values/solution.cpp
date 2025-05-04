@@ -34,7 +34,6 @@ int main() {
             }
         }
     }
-    cout << count << endl ; 
     cout << "IMPOSSIBLE" << endl;
     return 0;
 }
