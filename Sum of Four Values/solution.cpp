@@ -19,6 +19,7 @@ int main() {
     for (int i = 0; i < n; ++i) {
         for (int j = i + 3; j < n; ++j) {
             int target = x - arr[i].first - arr[j].first;
+            if( target < 2 ) continue ; 
             int l = i+1, r = j-1;
             while (l < r) {
                 int sum = arr[l].first + arr[r].first;
