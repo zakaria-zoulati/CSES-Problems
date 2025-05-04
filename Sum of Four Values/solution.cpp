@@ -15,7 +15,6 @@ int main() {
     }
 
     sort(arr.begin(), arr.end());
-
     for (int i = 0; i < n; ++i) {
         for (int j = i + 3; j < n; ++j) {
             int target = x - arr[i].first - arr[j].first;
@@ -35,7 +34,7 @@ int main() {
             }
         }
     }
-
+    cout << count << endl ; 
     cout << "IMPOSSIBLE" << endl;
     return 0;
 }
