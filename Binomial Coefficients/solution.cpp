@@ -50,7 +50,5 @@ int main(){
         
         cout << rs << endl ; 
     }
-
-
     return 0 ; 
 }
