@@ -12,7 +12,7 @@
 |:---|:---:|:---:|
 | Introductory Problems | 17 / 24 | ![](https://progress-bar.xyz/71/?width=120) |
 | Sorting and Searching | 20 / 36 | ![](https://progress-bar.xyz/56/?width=120) |
-| Dynamic Programming | 20 / 23 | ![](https://progress-bar.xyz/87/?width=120) |
+| Dynamic Programming | 21 / 23 | ![](https://progress-bar.xyz/91/?width=120) |
 | Graph Algorithms | 7 / 36 | ![](https://progress-bar.xyz/19/?width=120) |
 | Range Queries | 8 / 26 | ![](https://progress-bar.xyz/31/?width=120) |
 | Tree Algorithms | 2 / 16 | ![](https://progress-bar.xyz/13/?width=120) |
