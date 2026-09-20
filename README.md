@@ -18,10 +18,10 @@
 | Tree Algorithms | 2 / 16 | ![](https://progress-bar.xyz/13/?width=120) |
 | Mathematics | 17 / 35 | ![](https://progress-bar.xyz/49/?width=120) |
 | String Algorithms | 5 / 21 | ![](https://progress-bar.xyz/24/?width=120) |
-| Geometry | 1 / 16 | ![](https://progress-bar.xyz/6/?width=120) |
+| Geometry | 2 / 16 | ![](https://progress-bar.xyz/13/?width=120) |
 | Advanced Techniques | 1 / 25 | ![](https://progress-bar.xyz/4/?width=120) |
 | Bitwise Operations | 2 / 11 | ![](https://progress-bar.xyz/18/?width=120) |
 | Additional Problems | 1 / 30 | ![](https://progress-bar.xyz/3/?width=120) |
-| **Total** | **106 / 298** | ![](https://progress-bar.xyz/35/?width=120) |
+| **Total** | **107 / 298** | ![](https://progress-bar.xyz/36/?width=120) |
 
 </div>
