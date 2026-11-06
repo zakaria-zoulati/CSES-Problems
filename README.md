@@ -11,7 +11,7 @@
 | Section | Solved / Total | Progress |
 |:---|:---:|:---:|
 | Introductory Problems | 17 / 24 | ![](https://progress-bar.xyz/71/?width=120) |
-| Sorting and Searching | 20 / 36 | ![](https://progress-bar.xyz/56/?width=120) |
+| Sorting and Searching | 21 / 36 | ![](https://progress-bar.xyz/58/?width=120) |
 | Dynamic Programming | 21 / 23 | ![](https://progress-bar.xyz/91/?width=120) |
 | Graph Algorithms | 7 / 36 | ![](https://progress-bar.xyz/19/?width=120) |
 | Range Queries | 15 / 25 | ![](https://progress-bar.xyz/60/?width=120) |
@@ -22,6 +22,6 @@
 | Advanced Techniques | 1 / 25 | ![](https://progress-bar.xyz/4/?width=120) |
 | Bitwise Operations | 2 / 11 | ![](https://progress-bar.xyz/18/?width=120) |
 | Additional Problems | 1 / 30 | ![](https://progress-bar.xyz/3/?width=120) |
-| **Total** | **109 / 298** | ![](https://progress-bar.xyz/37/?width=120) |
+| **Total** | **110 / 298** | ![](https://progress-bar.xyz/37/?width=120) |
 
 </div>
